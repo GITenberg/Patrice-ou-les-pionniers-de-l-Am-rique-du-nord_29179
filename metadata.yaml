@@ -1,0 +1,28 @@
+_repo: Patrice-ou-les-pionniers-de-l-Am-rique-du-nord_29179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chavannes de la Giraudière, H. de
+    aliases:
+    - Chavannes de la Giraudiere, H. de
+    - Giraudière, H. de Chavannes de la
+    gutenberg_agent_id: '33742'
+    url: http://www.gutenberg.org/2009/agents/33742
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2009-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29179'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Québec (Province) -- Juvenile fiction'
+- !lcc 'PZ'
+title: Patrice, ou les pionniers de l'Amérique du nord
+url: http://www.gutenberg.org/ebooks/29179
